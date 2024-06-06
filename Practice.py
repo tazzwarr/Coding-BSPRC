@@ -1,4 +1,3 @@
-#Coding practice
 print("Welcome to the Game made by Nadid & Tazwar")
 
 playing = input("would you like to play? : ")
@@ -9,7 +8,7 @@ if playing.lower() == "no":
 
 print("Well to the game, Get Ready for the first question")
 score = 0
-#
+
 answer = input("Question 1 - What is the full form of CR7? ans: ")
 if answer.lower() == "cristiano ronaldo 7":
     print("Correct")
